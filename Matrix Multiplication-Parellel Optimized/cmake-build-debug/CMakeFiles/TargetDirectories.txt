@@ -1,0 +1,3 @@
+/home/gathika/CLionProjects/Matrix Multiplication-Parellel Optimized/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/gathika/CLionProjects/Matrix Multiplication-Parellel Optimized/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/gathika/CLionProjects/Matrix Multiplication-Parellel Optimized/cmake-build-debug/CMakeFiles/Matrix_Multiplication_Parellel_Optimized.dir

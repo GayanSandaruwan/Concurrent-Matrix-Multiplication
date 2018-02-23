@@ -1,0 +1,1 @@
+/usr/bin/c++   -fopenmp -O2 -g   CMakeFiles/Matrix_Multiplication_Parellel_Optimized.dir/main.cpp.o  -o Matrix_Multiplication_Parellel_Optimized 
